@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4b">
+<header creationtool="tx" creationtoolversion="3.0.0.17037" segtype="block" o-tmf="LogiTerm XML Bitext" adminlang="en-US" srclang="en" datatype="plaintext">
+<note>Converted from LogiTerm XML Bitext fortmat by tx 3.0.0.17037 on 2020-11-23 3:00:35 PM</note>
+<prop type="lt-title">Texto Ingles alinear_ENG-ESP_BT.xml</prop>
+<prop type="lt-segmrules">SRX</prop>
+<prop type="lt-filtering"></prop>
+<prop type="lt-namesrc">C:\Web\YouAlign2018\Temp\riako3dw2mksl5f1yksvrkoi\Texto Ingles alinear.docx</prop>
+<prop type="lt-nametgt">C:\Web\YouAlign2018\Temp\riako3dw2mksl5f1yksvrkoi\Texto español alinear.docx</prop>
+<prop type="lt-titlesrc"></prop>
+<prop type="lt-titletgt"></prop>
+<prop type="lt-datesrc">11/23/2020 2:58:24 PM</prop>
+<prop type="lt-datetgt">11/23/2020 2:58:24 PM</prop>
+<prop type="lt-datebtx">11/23/2020 2:58:24 PM</prop>
+</header>
+<body>
+<tu>
+<tuv xml:lang="en">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>Texto Ingles alinear.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+<tuv xml:lang="es">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>Texto español alinear.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Compared to other infrastructure sectors in Latin America during the Covid-19 pandemic, renewable energy project execution has demonstrated remarkable resilience.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los proyectos de energía renovable en América Latina han mostrado una notable resiliencia durante la pandemia de la covid-19, si se los compara con otros sectores de infraestructura.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>After overcoming supply shocks from the beginning of the year as factories briefly halted operations, construction activity on solar and wind projects – deemed as an essential activity in many jurisdictions – has been largely undisrupted by work stoppages that have affected other industries.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Después de superar las dificultades de oferta al comienzo del año (debido a la detención temporal de las fábricas), la construcción de proyectos de energía solar y eólica no ha experimentado las paralizaciones que han afectado a otras industrias.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>As we have adapted to the new normal, we have worked hard to bring together world-class best practices to ensure workers’ health and safety.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>A medida que nos adaptamos a la nueva normalidad, nos esforzamos en aplicar las mejores prácticas para asegurar la salud y la seguridad de los trabajadores.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In this article, we share what we’ve learned and how Covid-19 has demonstrated, once more, the strength of the renewable energy sector, even during a global health crisis.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En este artículo compartimos lo que hemos aprendido y cómo la covid-19 ha demostrado, una vez más, la fortaleza del sector de la energía renovable, aun en medio de una crisis sanitaria global.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Learning from others’ experience</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Aprender de la experiencia de otros</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This is a new situation for everyone, but this doesn’t mean we need to reinvent the wheel.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para todo el mundo la pandemia es una situación inédita, pero eso no significa que vamos a reinventar la rueda.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>At Atlas, we have strong relationships that span the globe.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En Atlas tenemos fuertes relaciones en todo el mundo y las estamos aprovechando.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>From our suppliers in China to our contractors who bring experience from Europe, we’ve been able to capture findings from the geographies that have already gone through the worst of the pandemic and take their protocols as a starting point when exploring ways to implement world-class safety standards in Latin America.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Gracias a nuestros proveedores en China y nuestros experimentados contratistas europeos, hemos aprendido de los países en los que ya se ha pasado lo peor de la pandemia y hemos adoptado sus protocolos como punto de partida para poner en práctica los mejores estándares de seguridad en América Latina.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Keeping workers safe</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Protegemos a nuestros trabajadores</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>By their very nature, renewable energy project sites lend themselves well to social distancing.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por su misma naturaleza, en los sitios en donde se ejecutan los proyectos de energía renovable es fácil adoptar las medidas de distanciamiento entre las personas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Wind turbines need to be spaced hundreds of yards apart in vast, open spaces, and even the smallest of our solar farms are measured in the hundreds of acres.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Las turbinas eólicas se disponen con varios cientos de metros entre ellas en espacios vastos y abiertos, y la más pequeña de nuestras plantas solares mide decenas de hectáreas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This inherent reality helps us to mitigate on-site risks right off the bat.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esta realidad nos ayuda a mitigar los riesgos de contagio.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>But simply relying on natural distance isn’t enough.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pero confiar en las ventajas de la naturaleza no es suficiente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>To keep our workers safe, we have pinpointed the many risk factors throughout their day – even before they arrive on-site – and put in place measures to mitigate them.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para mantener protegidos a nuestros trabajadores, hemos tenido que identificar y controlar muchos factores de riesgo, presentes aun antes de que los trabajadores lleguen al sitio de la construcción.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We’ve adapted the transportation methods our workers and contractors use to ensure adequate distancing between people and put in place daily deep cleaning of the vehicles to ensure optimal sanitization.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En este sentido, hemos adaptado los medios de transporte de nuestros trabajadores y contratistas para asegurar que se mantenga la distancia entre las personas. También hemos aplicado métodos profundos y diarios de limpieza y desinfección de los vehículos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Once workers arrive onsite, we hold daily safety meetings where we devote time to discuss Covid-19, making sure everyone is aware of the protocols that are in place and giving people the opportunity to raise any concerns about their health.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una vez que los trabajadores llegan al sitio de la construcción, organizamos reuniones diarias en las que discutimos temas relacionados con la covid-19. El objetivo es asegurarnos de que todos estén conscientes de los protocolos de seguridad y dar a los trabajadores la oportunidad de aclarar cualquier inquietud sobre su salud.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We’re also checking for coronavirus symptoms, which includes temperature measurements and questionnaires to identify any workers who have been in contact with friends or family members who may have been exposed to the virus.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Además, tomamos medidas para identificar cualquier síntoma relacionado con el coronavirus, como medir la temperatura corporal y realizar cuestionarios para identificar a los trabajadores que hayan estado en contacto con alguna persona expuesta al virus.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Because we have seen from other countries that many people who are infected with the virus are asymptomatic, we’re taking an extremely conservative approach to personal safety.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como sabemos que muchos infectados son asintomáticos, somos muy estrictos en proteger a nuestro personal.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We’ve revised our entire modus operandi all the way down the value chain, cutting out unnecessary face-to-face meetings with service providers.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por ello revisamos minuciosamente todas las operaciones de nuestra cadena de producción, para suprimir cualquier contacto físico con los proveedores.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>On-site, we are sanitizing all common areas and providing personal protective equipment to every worker, including masks and gloves.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En los sitios de construcción desinfectamos las áreas comunes y proveemos a nuestros trabajadores con equipo de protección, que incluye máscaras y guantes.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Following examples set elsewhere in the world, we are also exploring the possibility of providing remote virus testing, which will provide an additional layer of safety to our workforce.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tal como se hace en otros lugares, estamos explorando la posibilidad de ofrecer pruebas remotas de detección de virus, que darían una protección adicional a nuestros trabajadores.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Our sites have always been technologically advanced, but in these strange times we are taking this a step further.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nuestros sitios de construcción siempre han sido tecnológicamente avanzados, pero en estos tiempos difíciles estamos llevando las cosas un paso más allá.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>One example is our virtual safety walks, where our supervisors can now check-in – at a distance – on workers’ performance as well as adherence to safety standards via video technology.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un ejemplo son los “paseos virtuales de seguridad”, con los cuales nuestros supervisores pueden ahora evaluar, a distancia y por video, el desempeño de los trabajadores, así como su cumplimiento de las medidas de seguridad sanitaria.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Additionally, we’ve also put in place cohort segregation, which minimizes interactions among the workforce and enables the quarantining of small groups in case of any reported infections, creating an efficient way of working even during the pandemic.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Adicionalmente, hemos separado a los trabajadores por grupos, lo que minimiza las interacciones y permite poner en cuarentena a pequeños grupos en caso de que se reporte alguna infección: una manera eficiente de trabajar aun durante la pandemia.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Combatting mixed messaging</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Combatimos la información confusa</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>One of the biggest issues faced by international health authorities has been ensuring the global population is adequately informed, and busting myths about the spread, diagnostic, and treatment of Covid-19.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Uno de los asuntos más difícil enfrentados por las autoridades sanitarias ha sido asegurar que la población esté adecuadamente informada y desmentir los mitos acerca de la transmisión, el diagnóstico y el tratamiento de la covid-19.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This is of enormous importance to us as we seek to achieve alignment among all of our stakeholders on risk identification and mitigation. On-site medical staff play a key role in communicating the facts about the disease to workers and ensuring they understand that the precautions they take at work also need to be taken outside of work in order to protect their families. In the local communities, our community liaison officers have produced communication modules using resources from international institutions that go out via social media, radio, and other means to provide people with a trusted source of information in these confusing times.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para nosotros la correcta información es un asunto muy importante, porque queremos que todos los participantes e interesados en nuestras operaciones estén alineados en lo que concierne a cómo identificar y mitigar los riesgos de la covid-19. Nuestro personal médico tiene un papel clave en comunicar a los trabajadores la información acerca de la enfermedad y en asegurar que comprendan que las precauciones que toman en el trabajo son también necesarias fuera de él para proteger a sus familias. Además, nuestro personal de enlace con las comunidades en las que operamos ha producido material con información confiable que comunicamos por medios y redes sociales.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Working together as an ecosystem</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Trabajamos juntos como un ecosistema</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We don’t operate in a vacuum, and throughout these difficult times, we have learned that open channels of communication are key to getting the job done.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No trabajamos en un silo, y en estos tiempos difíciles hemos aprendido que los canales de comunicación abiertos son claves para alcanzar las metas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Renewable energy generation will play a transformational role in the economy post-Covid-19, and it is incumbent upon us to meet our ommitments to our projects.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La generación de energía renovable tendrá un papel clave en la transformación económica que vendrá después de la pandemia, y nos corresponde cumplir nuestros compromisos con los proyectos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Our close ties with local authorities, the communities we operate in, and our contractors have been vital, and there is a common understanding that we need to work closely together as we seek to adapt to this new normal.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nuestros estrechos lazos con autoridades locales, con las comunidades donde operamos y con nuestros contratistas han sido vitales, y hay un común entendimiento de que necesitamos trabajar juntos mientras nos adaptamos a la nueva normalidad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We have seen positive reactions from all of our contractors, who have provided suggestions and recommendations based on their experiences in other areas.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hemos visto reacciones positivas por parte de nuestros contratistas, que nos han hecho sugerencias y recomendaciones basadas en su experiencia.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This drive towards benchmarking and knowledge-sharing has brought about a collaborative means of creating best practices that go above and beyond those required by national legislation, and will only serve to boost resilience across the entire industry.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Este giro hacia la búsqueda de modelos y el intercambio de conocimiento ha dado como resultado la creación de mejores prácticas que van más allá de lo exigido por la legislación, y que servirán para aumentar la resiliencia en la industria.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Local authorities, too, cognizant of the need to safeguard jobs as well as community health, have facilitated knowledge transfer between companies operating in their regions to support the completion of projects which will bring both employment and clean energy to the population.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por su parte, las autoridades locales, conscientes de la necesidad de salvaguardar los empleos así como la salud de sus comunidades, han facilitado la transferencia de conocimiento entre las empresas que operan en sus jurisdicciones, para apoyar la culminación de proyectos que traerán tanto empleo como energía limpia a la población.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We believe that this new focus on cooperation will remain and will help to bring about better standards and greater efficiency throughout the industry.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Creemos que este nuevo foco en la cooperación permanecerá y ayudará a mejorar la eficiencia de la industria.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Moving along the learning curve</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Avanzar por la curva de aprendizaje</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We are living in unprecedented times, and we are still in a period of adaptation.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Vivimos tiempos sin precedentes, y todavía nos estamos adaptando.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>However, our experiences have taught us that for the renewable energy sector at least, the impacts of the Covid-19 pandemic can be successfully managed, to the extent that we don’t foresee any material impact on project execution in the coming months.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin embargo, nuestra experiencia nos enseña que, al menos en lo que respecta al sector de la energía renovable, los impactos de la covid-19 pueden ser gestionados con éxito, hasta el punto de que no prevemos ningún obstáculo en la ejecución de los proyectos en los meses por venir.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In this sense, the world can continue to invest in renewable energy opportunities creating hundreds of thousands, if not millions, of much needed jobs.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En este sentido, el mundo puede seguir invirtiendo en los proyectos de energía renovable que crean cientos de miles, e incluso millones, de empleos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Renewable energy demand remains high across Latin America, and by putting ourselves at the forefront and setting industry-leading standards to keep people safe from Covid-19, we are ensuring the sustainability of our projects for many years to come.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La demanda de energía renovable sigue siendo grande en América Latina, y al aplicar los mejores estándares de la industria para proteger a la gente de la covid-19, aseguramos la sostenibilidad de nuestros proyectos en los muchos años por venir.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>SOURCES</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>FUENTE</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Atlas Renewable Energy Executives Interview – May, 2020</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Entrevistas a ejecutivos de Atlas Renewable Energy, mayo 2020.</seg>
+</tuv>
+</tu>
+</body>
+</tmx>
